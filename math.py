@@ -17,3 +17,7 @@ def multiply(x,y):
 #Div imp
 def divide(x,y):
     return x/y;
+
+#sq fn
+def sq (x):
+	RETURN x*x
