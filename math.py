@@ -4,7 +4,7 @@ def add(x,y):
 
 #Sub imp
 def subtract(x,y):
-    pass
+    return (x-y)
 
 #Mulimp
 def multiply(x,y):
