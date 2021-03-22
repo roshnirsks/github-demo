@@ -12,7 +12,7 @@ def subtract(x,y):
 
 #Mulimp
 def multiply(x,y):
-    pass
+    return x*y
 
 #Div imp
 def divide(x,y):
