@@ -4,7 +4,10 @@ def add(x,y):
 
 #Sub imp
 def subtract(x,y):
-    pass
+    if y>x:
+	return ERROR
+    else:
+	return x-y
 
 #Mulimp
 def multiply(x,y):
